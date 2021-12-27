@@ -15,6 +15,6 @@ git clone https://github.com/alstonf/Clock.git
 python time.py
 ```
 ---
-## Don't forget to give me some feedback 👍 and you are welcomed to collaborate
+## Don't forget to give me some feedback 👍 and you are welcomed to contribute
 
 # **END**
